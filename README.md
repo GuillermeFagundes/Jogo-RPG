@@ -15,7 +15,7 @@ python main.py
 - Guillerme Dalgobo Fagundes - @GuillermeFagundes
 - Rafaell Ribeiro Marins - @Rafaell-coder
 - David Lucas Fernandes Alves - @davidlucas214
-- Vitoria Azevedo de Souza
-- Lucas Nunes da Costa
-- Loran Soares da Silva
+- Vitoria Azevedo de Souza - @vitoriaazevedodesouza604-stack
+- Lucas Nunes da Costa - @Lucaasunes
+- Loran Soares da Silva - @LoranSLS
 - Christian Costa Sanches
